@@ -1,4 +1,4 @@
-package Java8;
+package Java8.Day7.src.Java8;
 import java.util.*;
 import java.util.stream.Collectors;
 
